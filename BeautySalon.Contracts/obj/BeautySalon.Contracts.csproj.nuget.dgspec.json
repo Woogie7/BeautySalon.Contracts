@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\RiderProjects\\BeautySalon.Contracts\\BeautySalon.Contracts\\BeautySalon.Contracts.csproj": {}
+    "C:\\Users\\HP\\RiderProjects\\BeautySalon.Employees\\src\\BeautySalon.Contracts\\BeautySalon.Contracts\\BeautySalon.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\RiderProjects\\BeautySalon.Contracts\\BeautySalon.Contracts\\BeautySalon.Contracts.csproj": {
+    "C:\\Users\\HP\\RiderProjects\\BeautySalon.Employees\\src\\BeautySalon.Contracts\\BeautySalon.Contracts\\BeautySalon.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\RiderProjects\\BeautySalon.Contracts\\BeautySalon.Contracts\\BeautySalon.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\RiderProjects\\BeautySalon.Employees\\src\\BeautySalon.Contracts\\BeautySalon.Contracts\\BeautySalon.Contracts.csproj",
         "projectName": "BeautySalon.Contracts",
-        "projectPath": "C:\\Users\\HP\\RiderProjects\\BeautySalon.Contracts\\BeautySalon.Contracts\\BeautySalon.Contracts.csproj",
+        "projectPath": "C:\\Users\\HP\\RiderProjects\\BeautySalon.Employees\\src\\BeautySalon.Contracts\\BeautySalon.Contracts\\BeautySalon.Contracts.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\RiderProjects\\BeautySalon.Contracts\\BeautySalon.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\HP\\RiderProjects\\BeautySalon.Employees\\src\\BeautySalon.Contracts\\BeautySalon.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
